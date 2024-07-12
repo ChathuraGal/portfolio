@@ -11,7 +11,7 @@ Here I am demonstrating my past projects delivered to external clients, internal
 - Requirement:
 - Model:
 - Deployment:
-- 
+  
 ### Analyst Support with GenAI
 -Requirement:
 -Model:
@@ -31,6 +31,7 @@ Here I am demonstrating my past projects delivered to external clients, internal
 -Requirement:
 -Model:
 -Deployment:
+https://www.linkedin.com/pulse/revolutionizing-warehouse-management-object-detection-galkandage-wem7e/?trackingId=L6WvHAUQlnRsqCCp%2FwC1Jw%3D%3D 
 
 ### Customize Digital Human chatbots using RAG
 -Requirement:
