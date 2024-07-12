@@ -6,12 +6,15 @@ Here I am demonstrating my past projects delivered to external clients, internal
 
 ## AI Projects
 ### Demand Forecasting with Deep Learning
+
 ### Analyst Support with GenAI
 ### Document retrieval with Congitive Search
 ### Customer Review Analysis with NLP
 ### Augmented Object Detection using Computer Vision
 ### Customize Digital Human chatbots using RAG
 ### Pay by Plate using Computer Vision
+### Sign Interpretation using Deep Learning
+### Fake Image detection using Deep Learning
 
 
 ## Data Projects
